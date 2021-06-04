@@ -1,5 +1,6 @@
 # Miembros
 
+* Peter
 * Capitán America
 * Black panther
 * Black Widow
