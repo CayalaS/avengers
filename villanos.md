@@ -2,4 +2,3 @@
 
 * Carlos
 * Ayala
-* Capitán America
